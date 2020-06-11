@@ -1,1 +1,3 @@
 {"timestamp":"1591908720","author":"mkalil@google.com","location":{"commit":"194dada092a17c36005224c8feb0c06fde147e2b","path":"README.md","range":{"startLine":0}},"description":"This is a test comment"}
+
+{"timestamp":"1591909535","author":"mkalil@google.com","location":{"commit":"194dada092a17c36005224c8feb0c06fde147e2b","path":"README.md","range":{"startLine":0}},"description":"This is a second test comment"}
