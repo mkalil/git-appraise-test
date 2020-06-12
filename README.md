@@ -1,3 +1,3 @@
 # git-appraise-test
 
-Making some changes
+Making some changesThis is an example repository used for coming up to speed
