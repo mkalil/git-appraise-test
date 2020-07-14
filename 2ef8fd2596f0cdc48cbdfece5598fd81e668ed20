@@ -5,3 +5,5 @@
 {"timestamp":"1593812266","author":"mkalil@google.com","location":{"commit":"6dcb8f35f3ef1db2f19da128b6be9cd1b12bfe4c"},"description":"Test comment"}
 
 {"timestamp":"1594708998","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/pandas_cleaning.ipynb","range":{"startLine":0}},"description":"This is another test comment"}
+
+{"timestamp":"1594709026","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/pandas_cleaning.ipynb","range":{"startLine":0}},"description":"This is a comment ona code review"}
