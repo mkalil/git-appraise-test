@@ -1,1 +1,3 @@
 {"timestamp":"1594708612","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"Approved."}
+
+{"timestamp":"1594708640","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"Some minor changes will be necessary"}
