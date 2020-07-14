@@ -7,3 +7,5 @@
 {"timestamp":"1594708998","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/pandas_cleaning.ipynb","range":{"startLine":0}},"description":"This is another test comment"}
 
 {"timestamp":"1594709026","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/pandas_cleaning.ipynb","range":{"startLine":0}},"description":"This is a comment ona code review"}
+
+{"timestamp":"1594709090","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"This is a code review comment"}
