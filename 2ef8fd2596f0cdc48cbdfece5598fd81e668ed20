@@ -21,3 +21,5 @@
 {"timestamp":"1594709290","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/matplotlib.ipynb","range":{"startLine":0}},"description":"Approved."}
 
 {"timestamp":"1594709402","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"Looks good to me!"}
+
+{"timestamp":"1594709422","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"You need one more reviewer before approval"}
