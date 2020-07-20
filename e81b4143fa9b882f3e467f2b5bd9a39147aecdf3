@@ -17,3 +17,5 @@
 {"timestamp":"1595028344","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"😄 😇 some emojis"}
 
 {"timestamp":"1595259479","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"add"}
+
+{"timestamp":"1595287078","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"comment after editing the handler"}
