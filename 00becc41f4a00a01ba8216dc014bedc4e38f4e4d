@@ -11,3 +11,5 @@
 {"timestamp":"1595283387","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file2.py","range":{"startLine":0}},"description":"this is a test comment"}
 
 {"timestamp":"1595283423","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file2.py","range":{"startLine":0}},"description":"this is a test comment"}
+
+{"timestamp":"1595283939","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file2.py","range":{"startLine":0}},"description":"adding a new comment from the UI"}
