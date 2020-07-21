@@ -21,3 +21,5 @@
 {"timestamp":"1595287078","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"comment after editing the handler"}
 
 {"timestamp":"1595361106","author":"mkalil@google.com","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"code/file1.py","range":{"startLine":0}},"description":"everything works"}
+
+{"timestamp":"1595361890","author":"mkalil@google.com","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"code/file1.py","range":{"startLine":0}},"description":"adding a new comment"}
