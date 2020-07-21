@@ -9,3 +9,5 @@
 {"timestamp":"1594326080","author":"mkalil@google.com","location":{"commit":"6dcb8f35f3ef1db2f19da128b6be9cd1b12bfe4c","path":"README.md","range":{"startLine":0}},"description":"This looks great!"}
 
 {"timestamp":"1595289703","author":"mkalil@google.com","location":{"commit":"c7ac0162997472bcec840038bd0360f713392c22","path":"README.md","range":{"startLine":0}},"description":"new comment on README"}
+
+{"timestamp":"1595290677","author":"mkalil@google.com","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"README.md","range":{"startLine":0}},"description":"git appraise push"}
