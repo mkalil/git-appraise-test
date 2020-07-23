@@ -25,7 +25,6 @@
 {"timestamp":"1595544622","author":"mkalil@google.com","parent":"2f6abda040b862bea91586a797950f47cc76ab03","location":{"commit":"f8a0ced7c97d078048ef0c1b041bcc75eaf1ae7e","path":"code/file1.py","range":{"startLine":0}},"description":"Try this"}
 {"timestamp":"1595544675","author":"mkalil@google.com","location":{"commit":"f8a0ced7c97d078048ef0c1b041bcc75eaf1ae7e","path":"code/file1.py","range":{"startLine":0}},"description":"Comments in succession: 8889"}
 {"timestamp":"1595544677","author":"mkalil@google.com","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"Comments in succession: 8888"}
-
 {"timestamp":"1595544788","author":"mkalil@google.com","parent":"10e3107e77a1f54ffd8f17cb824c12500bd51007","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"Nice!"}
-
 {"timestamp":"1595545854","author":"mkalil@google.com","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"quick comment 1"}
+{"timestamp":"1595545858","author":"mkalil@google.com","location":{"commit":"f8a0ced7c97d078048ef0c1b041bcc75eaf1ae7e","path":"code/file1.py","range":{"startLine":0}},"description":"quick comment 2\n"}
