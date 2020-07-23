@@ -1,43 +1,23 @@
 {"timestamp":"1593448816","author":"mkalil@google.com","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"first comment on this file"}
-
 {"timestamp":"1593448882","author":"mkalil@google.com","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"second comment on this file"}
-
 {"timestamp":"1593449093","author":"mkalil@google.com","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"third comment on this file"}
-
 {"timestamp":"1593449101","author":"mkalil@google.com","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"fourth comment on this file"}
-
 {"timestamp":"1593450808","author":"mkalil@google.com","parent":"594d7ed16a31d1874a01200bd4d2d343f0581228","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"Reply to first comment on file1"}
-
 {"timestamp":"1593450910","author":"mkalil@google.com","parent":"94ab51882298d07c15ce89e8044e7f09040e97f6","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"Reply to reply comment on file1"}
-
 {"timestamp":"1593624280","author":"mkalil@google.com","parent":"594d7ed16a31d1874a01200bd4d2d343f0581228","location":{"commit":"f18f157c611109aef8acd5a6943c59aa61ff6418","path":"code/file1.py","range":{"startLine":0}},"description":"Reply comment"}
-
 {"timestamp":"1594328592","author":"mkalil@google.com","location":{"commit":"6dcb8f35f3ef1db2f19da128b6be9cd1b12bfe4c","path":"code/file1.py","range":{"startLine":0}},"description":"I think this needs some more work"}
-
 {"timestamp":"1595028344","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"😄 😇 some emojis"}
-
 {"timestamp":"1595259479","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"add"}
-
 {"timestamp":"1595287078","author":"mkalil@google.com","location":{"commit":"3727bd4bb7a0d87facff1573d89c9d238586ff7d","path":"code/file1.py","range":{"startLine":0}},"description":"comment after editing the handler"}
-
 {"timestamp":"1595361106","author":"mkalil@google.com","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"code/file1.py","range":{"startLine":0}},"description":"everything works"}
-
 {"timestamp":"1595361890","author":"mkalil@google.com","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"code/file1.py","range":{"startLine":0}},"description":"adding a new comment"}
-
 {"timestamp":"1595362049","author":"mkalil@google.com","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"code/file1.py","range":{"startLine":0}},"description":"add new"}
-
 {"timestamp":"1595446352","author":"mkalil@google.com","parent":"594d7ed16a31d1874a01200bd4d2d343f0581228","location":{"commit":"08d18f1c1abff11075a146bf03855a11d87962c7","path":"code/file1.py","range":{"startLine":0}},"description":"new reply comment"}
-
 {"timestamp":"1595450871","author":"mkalil@google.com","parent":"594d7ed16a31d1874a01200bd4d2d343f0581228","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"replying to first comment"}
-
 {"timestamp":"1595454198","author":"mkalil@google.com","parent":"6284e1f3900f250f15db9da5200d4a23a85c9a14","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"I agree"}
-
 {"timestamp":"1595528975","author":"mkalil@google.com","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"Send new comment"}
-
 {"timestamp":"1595529003","author":"mkalil@google.com","parent":"e51a07546cb28e8088b89bd765be3a0f4d3f1a97","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"New comment"}
-
 {"timestamp":"1595544348","author":"mkalil@google.com","location":{"commit":"f8a0ced7c97d078048ef0c1b041bcc75eaf1ae7e","path":"code/file1.py","range":{"startLine":0}},"description":"See if this shows up"}
-
 {"timestamp":"1595544397","author":"mkalil@google.com","parent":"ec309a02c5261055117f3ab1f281cd540a1ed357","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"See if this shows up"}
-
+{"timestamp":"1595544478","author":"mkalil@google.com","parent":"2f6abda040b862bea91586a797950f47cc76ab03","location":{"commit":"e61cbc483a2494d8eeac65bb2da9f6e4447c8392","path":"code/file1.py","range":{"startLine":0}},"description":"Does this one go through 8888"}
 {"timestamp":"1595544481","author":"mkalil@google.com","parent":"2f6abda040b862bea91586a797950f47cc76ab03","location":{"commit":"f8a0ced7c97d078048ef0c1b041bcc75eaf1ae7e","path":"code/file1.py","range":{"startLine":0}},"description":"Does this one go through - 8889"}
