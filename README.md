@@ -1,3 +1,3 @@
 # git-appraise-test
 
-Making some changes
+This repository is used for testing the JupyterLab comments extension
