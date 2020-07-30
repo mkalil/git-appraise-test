@@ -27,5 +27,5 @@ git appraise pull {REMOTE_REPO}
 
 Push new comments to the remote repo
 ```console
-git appraise push {REMOTE_REPO}
+git appraise push ${REMOTE_REPO}
 ```
