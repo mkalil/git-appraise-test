@@ -9,3 +9,5 @@
 {"timestamp":"1596564899","author":"mkalil@google.com","location":{"commit":"12c8f9cbbec36d062b90085cd7de18cec9f5ec75","path":"code/file1.py","range":{"startLine":0}},"description":"Approved"}
 
 {"timestamp":"1596564905","author":"mkalil@google.com","location":{"commit":"12c8f9cbbec36d062b90085cd7de18cec9f5ec75","path":"code/file1.py","range":{"startLine":0}},"description":"LGTM"}
+
+{"timestamp":"1596585269","author":"mkalil@google.com","location":{"commit":"12c8f9cbbec36d062b90085cd7de18cec9f5ec75","path":"code/file2.py","range":{"startLine":0}},"description":"New comment"}
