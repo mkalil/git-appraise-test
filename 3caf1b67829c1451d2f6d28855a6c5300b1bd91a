@@ -1,1 +1,3 @@
 {"timestamp":"1596564720","author":"mkalil@google.com","location":{"commit":"5f4d68cd279bc0fdb2d77e4e981388826a8f3f0c","path":"code/file1.py","range":{"startLine":0}},"description":"LGTM"}
+
+{"timestamp":"1596564753","author":"mkalil@google.com","location":{"commit":"5f4d68cd279bc0fdb2d77e4e981388826a8f3f0c","path":"code/file1.py","range":{"startLine":0}},"description":"These changes are approved"}
