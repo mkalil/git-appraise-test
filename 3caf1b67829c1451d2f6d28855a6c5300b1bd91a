@@ -7,3 +7,5 @@
 {"timestamp":"1596564792","author":"mkalil@google.com","location":{"commit":"5f4d68cd279bc0fdb2d77e4e981388826a8f3f0c","path":"code/file2.py","range":{"startLine":0}},"description":"Good to go"}
 
 {"timestamp":"1596585987","author":"mkalil@google.com","location":{"commit":"5f4d68cd279bc0fdb2d77e4e981388826a8f3f0c","path":"code/file2.py","range":{"startLine":0}},"description":"New comment on file2"}
+
+{"timestamp":"1596586224","author":"mkalil@google.com","location":{"commit":"3caf1b67829c1451d2f6d28855a6c5300b1bd91a","path":"code/file2.py","range":{"startLine":0}},"description":"Another comment on file2"}
