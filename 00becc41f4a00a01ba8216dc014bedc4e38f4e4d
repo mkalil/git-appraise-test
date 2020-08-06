@@ -35,3 +35,5 @@
 {"timestamp":"1596754717","author":"mkalil@google.com","parent":"f1067e3dd4e451a6f066ee26394e6d46d5383f47","location":{"commit":"497a93cfdea39856810956665d7c219a0bb6f7be","path":"code/file2.py","range":{"startLine":0}},"description":"reply"}
 
 {"timestamp":"1596755135","author":"mkalil@google.com","parent":"3ed28dce3f11b01c7bd1b3f59df7facb3d663b75","location":{"commit":"497a93cfdea39856810956665d7c219a0bb6f7be","path":"code/file2.py","range":{"startLine":0}},"description":"test"}
+
+{"timestamp":"1596756696","author":"mkalil@google.com","location":{"commit":"497a93cfdea39856810956665d7c219a0bb6f7be","path":"code/file2.py","range":{"startLine":0}},"description":"New detached comment thread"}
