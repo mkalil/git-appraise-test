@@ -13,3 +13,5 @@
 {"timestamp":"1596756658","author":"mkalil@google.com","location":{"commit":"5f4d68cd279bc0fdb2d77e4e981388826a8f3f0c","path":"code/file2.py","range":{"startLine":0}},"description":"Code Review comment"}
 
 {"timestamp":"1596843551","author":"mkalil","description":"test comment"}
+
+{"timestamp":"1596843573","author":"mkalil","location":{"commit":"5f4d68cd279bc0fdb2d77e4e981388826a8f3f0c","path":"code/file1.py","range":{"startLine":2}},"description":"Test comment on file1"}
