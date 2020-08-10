@@ -36,3 +36,5 @@
 {"timestamp":"1597091052","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":2,"startColumn":5,"endLine":5,"endColumn":4}},"description":"comment with start and end line and column"}
 
 {"timestamp":"1597091219","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":2,"endLine":5}},"description":"comment with just start and end line"}
+
+{"timestamp":"1597092058","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":2,"endLine":5,"endColumn":4}},"description":"comment with just start and end line"}
