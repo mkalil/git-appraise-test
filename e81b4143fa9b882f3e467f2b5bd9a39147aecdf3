@@ -44,3 +44,5 @@
 {"timestamp":"1597100853","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":3,"startColumn":2,"endLine":3,"endColumn":3}},"description":"test"}
 
 {"timestamp":"1597101204","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":3,"startColumn":2,"endLine":3,"endColumn":6}},"description":"test with part of a line"}
+
+{"timestamp":"1597103196","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":3,"startColumn":2,"endLine":4,"endColumn":3}},"description":"test with part of a line test"}
