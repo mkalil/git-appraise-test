@@ -30,3 +30,5 @@
 {"timestamp":"1595545858","author":"mkalil@google.com","location":{"commit":"f8a0ced7c97d078048ef0c1b041bcc75eaf1ae7e","path":"code/file1.py","range":{"startLine":0}},"description":"quick comment 2\n"}
 
 {"timestamp":"1597090944","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":5}},"description":"comment with line numbers"}
+
+{"timestamp":"1597090974","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":2}},"description":"another comment with line numbers"}
