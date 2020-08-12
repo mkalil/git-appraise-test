@@ -46,3 +46,5 @@
 {"timestamp":"1597101204","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":3,"startColumn":2,"endLine":3,"endColumn":6}},"description":"test with part of a line"}
 
 {"timestamp":"1597103196","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/file1.py","range":{"startLine":3,"startColumn":2,"endLine":4,"endColumn":3}},"description":"test with part of a line test"}
+
+{"timestamp":"1597270085","author":"mkalil@google.com","parent":"e17f3db0d77c67c5c47b8c3537ca077f81105de7","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"replying to comment with line numbers"}
