@@ -9,3 +9,5 @@
 {"timestamp":"1597175586","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/numpy.ipynb","range":{"startLine":10,"endLine":20}},"description":"comment with start and end line"}
 
 {"timestamp":"1597175606","author":"mkalil@google.com","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/numpy.ipynb","range":{"startLine":15,"endLine":35}},"description":"another comment with start and end line"}
+
+{"timestamp":"1597339853","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/numpy.ipynb","range":{"startLine":12}},"description":"Add comment with line number notebook"}
