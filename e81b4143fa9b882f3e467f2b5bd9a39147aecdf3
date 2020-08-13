@@ -58,3 +58,5 @@
 {"timestamp":"1597339624","author":"mkalil@google.com","parent":"17c6597bb4f9036cca70392928b4bac1f9061fea","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"reply to comment with a line number"}
 
 {"timestamp":"1597341359","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"Comment thread with startLine 0"}
+
+{"timestamp":"1597354293","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"Comment without setting line number"}
