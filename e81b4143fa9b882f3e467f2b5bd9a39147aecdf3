@@ -50,3 +50,5 @@
 {"timestamp":"1597270085","author":"mkalil@google.com","parent":"e17f3db0d77c67c5c47b8c3537ca077f81105de7","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"replying to comment with line numbers"}
 
 {"timestamp":"1597337329","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"test startLine 0"}
+
+{"timestamp":"1597338663","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":4}},"description":"Test adding comment with line number input"}
