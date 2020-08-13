@@ -5,3 +5,5 @@
 {"timestamp":"1597357818","author":"mkalil","description":"LGTM"}
 
 {"timestamp":"1597357867","author":"mkalil@seas.upenn.edu","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"LGTM"}
+
+{"timestamp":"1597360421","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"A few minor changes are necessary"}
