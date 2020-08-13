@@ -13,3 +13,5 @@
 {"timestamp":"1597361265","author":"mkalil@seas.upenn.edu","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/matplotlib.ipynb","range":{"startLine":0}},"description":"Just a few minor changes..."}
 
 {"timestamp":"1597361287","author":"mkalil@seas.upenn.edu","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/matplotlib.ipynb","range":{"startLine":0}},"description":"Everything looks great!"}
+
+{"timestamp":"1597361302","author":"mkalil@seas.upenn.edu","location":{"commit":"b97054f9f8027aa1a0a8632c8e428d132f6d0447","path":"code/matplotlib.ipynb","range":{"startLine":0}},"description":"Let's get working on the new feature"}
