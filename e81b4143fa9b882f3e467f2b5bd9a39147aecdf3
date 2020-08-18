@@ -60,3 +60,5 @@
 {"timestamp":"1597341359","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"Comment thread with startLine 0"}
 
 {"timestamp":"1597354293","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"Comment without setting line number"}
+
+{"timestamp":"1597780562","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":4}},"description":";lakjsdf"}
