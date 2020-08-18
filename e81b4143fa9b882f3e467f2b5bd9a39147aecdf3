@@ -68,3 +68,5 @@
 {"timestamp":"1597781499","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":1}},"description":"new comment from dialogue"}
 
 {"timestamp":"1597783584","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":4}},"description":"Test with dialogue"}
+
+{"timestamp":"1597783769","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":5}},"description":"Test test new comment thread with dialogue"}
