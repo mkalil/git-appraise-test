@@ -74,3 +74,5 @@
 {"timestamp":"1597783958","author":"mkalil@google.com","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":4}},"description":"test"}
 
 {"timestamp":"1597783977","author":"mkalil@google.com","parent":"701cd2b121d427d71514433b274a1e79438bc990","location":{"commit":"332f785a8bcafedf6ff5087def2404fb17068865","path":"code/file1.py","range":{"startLine":0}},"description":"Reply comment"}
+
+{"timestamp":"1597814486","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":38}},"description":"I don't think we need this variable. "}
