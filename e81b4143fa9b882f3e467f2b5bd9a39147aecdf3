@@ -84,3 +84,5 @@
 {"timestamp":"1597814737","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":28}},"description":"Right click to start a new comment on this line"}
 
 {"timestamp":"1597815956","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":36}},"description":"This line needs some work."}
+
+{"timestamp":"1597816039","author":"mkalil@seas.upenn.edu","parent":"952b3619b61a64901d680f7e752aeaa22e5a1dd7","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":0}},"description":"Okay."}
