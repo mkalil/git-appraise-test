@@ -51,3 +51,5 @@
 {"timestamp":"1597815236","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file2.py","range":{"startLine":0}},"description":"This is a new comment thread for a demo"}
 
 {"timestamp":"1597815256","author":"mkalil@seas.upenn.edu","parent":"e226cc605977fc80c854b7347d84a525d7d6a3a5","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file2.py","range":{"startLine":0}},"description":"I'm replying to this comment thread for a demo"}
+
+{"timestamp":"1597815298","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file2.py","range":{"startLine":39}},"description":"Adding a new comment to the exact line in this file"}
