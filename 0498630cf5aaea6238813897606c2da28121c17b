@@ -29,3 +29,5 @@
 {"timestamp":"1597815767","author":"mkalil@seas.upenn.edu","parent":"3cee7d4ea2ab2bb7b461ca752eed2013fe3c3d44","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"Another reply comment"}
 
 {"timestamp":"1597815906","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"This is a new comment for a demo"}
+
+{"timestamp":"1597815923","author":"mkalil@seas.upenn.edu","parent":"915927457d9b95456179135bdd131fe9e1367c0e","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/numpy.ipynb","range":{"startLine":0}},"description":"Reply to this comment"}
