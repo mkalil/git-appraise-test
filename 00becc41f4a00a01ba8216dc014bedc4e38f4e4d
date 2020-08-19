@@ -55,3 +55,5 @@
 {"timestamp":"1597815298","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file2.py","range":{"startLine":39}},"description":"Adding a new comment to the exact line in this file"}
 
 {"timestamp":"1597815327","author":"mkalil@seas.upenn.edu","parent":"453d05b639b99eb0988fbe6afbf8e00b0b78b000","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file2.py","range":{"startLine":0}},"description":"LGTM"}
+
+{"timestamp":"1597815454","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file2.py","range":{"startLine":0}},"description":"New comment thread test"}
