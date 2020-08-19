@@ -78,3 +78,5 @@
 {"timestamp":"1597814486","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":38}},"description":"I don't think we need this variable. "}
 
 {"timestamp":"1597814526","author":"mkalil@seas.upenn.edu","parent":"b626566ee78459e4a843cac6484c3bfa680e21e7","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":0}},"description":"I agree"}
+
+{"timestamp":"1597814564","author":"mkalil@seas.upenn.edu","location":{"commit":"795b0878265ea2b3f470c873b7e43f887122a8fd","path":"code/file1.py","range":{"startLine":0}},"description":"New comment thread"}
